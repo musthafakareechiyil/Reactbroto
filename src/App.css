@@ -19,3 +19,11 @@
 .header > ul > li {
   margin-left: 50px;
 }
+
+.counting{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: aqua;
+}
